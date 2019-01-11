@@ -2,7 +2,7 @@
 $student1  = ['class' => 1, 'name' => 'Aさん', 'free' =>  "月曜"];
 $student2  = ['class' => 1, 'name' => 'Bさん', 'free' =>  "木曜"];
 $student3  = ['class' => 1, 'name' => 'Cさん', 'free' =>  "水曜"];
-$student4  = ['class' => 2, 'name' => 'Dさん', 'feee' =>  "水曜"];
+$student4  = ['class' => 2, 'name' => 'Dさん', 'free' =>  "水曜"];
 $student5  = ['class' => 2, 'name' => 'Eさん', 'free' =>  "火曜"];
 $student6  = ['class' => 3, 'name' => 'Fさん', 'free' =>  "木曜"];
 $student7  = ['class' => 3, 'name' => 'Gさん', 'free' =>  "木曜"];
